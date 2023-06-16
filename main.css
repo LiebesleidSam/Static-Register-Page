@@ -68,3 +68,18 @@ form button {
     color: white;
     background-color: #13a0ff;
 }
+
+footer {
+    margin-top: .75rem;
+    border-top: solid 1px lightgray;
+    padding-top: 1rem;
+    text-align: center;
+}
+
+footer img {
+    margin: 0 .5rem;
+}
+
+footer img:hover {
+    cursor: pointer;
+}
